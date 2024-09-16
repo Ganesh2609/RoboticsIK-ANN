@@ -23,8 +23,8 @@ This repository contains an artificial neural network (ANN) implementation for s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/IRB140_IK_ANN.git
-   cd IRB140_IK_ANN
+   git clone https://github.com/Ganesh2609/RoboticsIK-ANN.git
+   cd RoboticsIK-ANN
    ```
 
 2. Run the offline Streamlit webpage:
