@@ -41,7 +41,7 @@ This repository contains an artificial neural network (ANN) implementation for s
 
 ## Demonstraion
 The offline webpage is as follows:
-<video src="Media/sample_video.mp4" width="352" height="720"></video>
+[Watch the demonstration video](Media/sample_video.mp4)
 
 For more details, refer to the Report.pdf file attached. It contains all the details about the implementation and the loss that we obtained for the Artificial Neural Network in each method. The presentation explaining that is also given below:
 [![Preview of the PDF](Media/simulation_preview_2.png)](Report.pdf)
